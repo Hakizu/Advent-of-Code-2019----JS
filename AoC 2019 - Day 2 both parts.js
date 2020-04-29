@@ -25,8 +25,7 @@ function opCode(input) {
         }
         if (toDo === 2) {
             result = numberArray[0] * numberArray[1]
-        }
-        
+        }        
         const resultPosition = input[i + 3]
         input[resultPosition] = result
     }
