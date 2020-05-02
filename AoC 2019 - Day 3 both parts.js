@@ -116,6 +116,8 @@ for(let i = 0; i < indexArray.length; i += 2){
 }
 console.log(Math.min(...resultArray))
 
+// ------------- Part 2 
+
 let stepArrayFirst = []
 let rightOrderForArray = []
 y = 10000
