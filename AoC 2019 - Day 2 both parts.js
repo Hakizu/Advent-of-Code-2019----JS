@@ -9,10 +9,6 @@ function getValues(firstNumber, secondNumber, input) {
     numberArray.push(parseInt(input [secondNumber]))
     return numberArray
 }
-
-let input = source.split(",")
-input[1] = 12
-input[2] = 2
 function opCode(input) {
     for(let i = 0; i < input.length; i += 4) {
         const toDo = parseInt(input[i])
@@ -31,6 +27,10 @@ function opCode(input) {
     }
     return input[0]
 }
+
+let input = source.split(",")
+input[1] = 12
+input[2] = 2
 console.log(opCode(input))
 
 // ------- part 2
