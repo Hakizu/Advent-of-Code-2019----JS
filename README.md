@@ -1,6 +1,3 @@
-All inputs : https://docs.google.com/document/d/1uGKId9GIFouNJJk2eDf8vWLr54-1viPm4V1FEHmc-44/edit?usp=sharing 
-
-
 # Advent-of-Code-2019----JS
 --- Day 1: The Tyranny of the Rocket Equation ---
 
